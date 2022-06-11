@@ -15,7 +15,7 @@ Feature: US1006 yanlis bilgilerle siteye giris yapilamaz
     Then sayfaya giris yapilamadigini test eder
     And sayfayi kapatir
 
-  @hmc @smoke
+  @hmc @smoke @pr1
   Scenario: TC10 yanlis kullanici adi ve dogru sifre ile giris yapamaz
     Given kullanici "HMCUrl" anasayfasinda
     Then Log in yazisina tiklar

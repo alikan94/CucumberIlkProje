@@ -1,4 +1,4 @@
-@wip
+
 Feature: US1002 kullanici ortak adimlari Background ile calistirir
 
   Background: ortak adim

@@ -1,6 +1,6 @@
 Feature: US1003 kullanici parametre kullanrak arama yapabilmeli
 
-  @parametre
+  @parametre @sirali
   Scenario: TC06 kullanici parametre ile amazonda arama yapabilmeli
     Given kullanici amazon anasayfasinda
     And kullanici "Nutella" icin arama yapar

@@ -12,10 +12,10 @@ import org.junit.runner.RunWith;
         },
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        tags = "@guru",
+        tags = "@wip",
         dryRun = false
 )
-public class Runner {
+public class TestRunner {
     /*
     bir frameworkde bir tek Runner classi yeterli olabilir
     Runner classinda class bodysinde hicbir sey olmaz

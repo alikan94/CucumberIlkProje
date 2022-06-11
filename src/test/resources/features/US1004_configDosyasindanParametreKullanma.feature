@@ -1,6 +1,6 @@
 Feature: US1004 kullanici parametre ile configration file'i kullanabilmeli
 
-  @config
+  @config @pr1
   Scenario: TC07 configration properties dosyasinda parametre kullanimi
 
     Given kullanici "amazonUrl" anasayfasinda
