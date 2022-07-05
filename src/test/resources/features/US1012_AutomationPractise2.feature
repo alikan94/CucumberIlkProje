@@ -11,4 +11,5 @@ Feature: US1012 kullanici register yapabilmeli
     And user kisisel bilgilerini ve iletisim bilgilerini girer
     And user Register butonuna basar
     Then hesap olustugunu dogrulayin
+    Then hesap olustugunu dogrulayin
     Then sayfayi kapatir
